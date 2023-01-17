@@ -12,6 +12,6 @@ According to Skilled Nursing News, the average length of stay in skilled nursing
 
 <img width="1254" alt="Screen Shot 2023-01-17 at 1 19 07 AM" src="https://user-images.githubusercontent.com/121649263/212824264-356eb5e3-1f56-445b-aab2-d9251d245598.png">
 
-***Take Away***
+**Take Away**
 
 With the help of Tableau, these findings provide information that could help patients find the best facility based on their expectations. Some of these findings are the number of beds in facilities to give an idea of how crowded the facility will be, where these facilities are, the length of stay, and comparisons to give the best option. 
